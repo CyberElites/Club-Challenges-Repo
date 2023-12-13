@@ -1,0 +1,7 @@
+Hey man, me again. So I'm in this environmental science class and I'm having a hard time trying to convert Celsius
+to Fahrenheit and Fahrenheit to Celsius. Could you make me a program that allows me to specify which conversion
+I want and allows me to convert a degree temperature?
+
+PS: this can be ran in the terminal and here's a link for the calculations for converting these temperatures-
+
+Both Degree Conversions: https://www.uptodate.com/contents/calculator-temperature-unit-conversions#:~:text=Temperature%20in%20degrees%20Celsius%20(%C2%B0C)%20=%20(Temperature%20in,-%2032)%20*%205%2F9
