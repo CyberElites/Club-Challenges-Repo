@@ -1,5 +1,5 @@
 Eyo, it's a me. Wanted to be a little cheeky today and a little trolling, ya know. I have this really long list
-with 100,000 numbers all separated with commas. I want you to find the 69419th number in this list.
+with 100,000 numbers all separated with commas. I want you to find the 69419th index number in this list.
 
 PS: you will be able to find this number by first storing all numbers in a list that are separted by
 a comma in the challenge file.
