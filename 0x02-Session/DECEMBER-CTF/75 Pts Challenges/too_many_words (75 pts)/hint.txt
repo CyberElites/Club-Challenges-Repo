@@ -1,0 +1,6 @@
+There are a lot of words in the words.txt file. In fact, there are 466550 words in the file.
+That's a lot and I doubt you want to go to each line of the file to find the flag text.
+
+So, in order to complete this challenge, you will want to use a common command most Linux
+distros have. Just remember this, you want to filter the text, so figure out how to do
+that in the command line interface (CLI). Don't forget to use Google!!!

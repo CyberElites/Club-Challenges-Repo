@@ -1,0 +1,18 @@
+[Incoming Transmission]
+
+Agent 69420, you have been assigned to track the location of a highly dangerous individual.
+
+Fortunately for us, he has shared a picture of him on his Twitter account that we have downloaded.
+He believes we will not track him down, but he will be wrong. This a special mission, your orders
+are to use the provided "osint.jpg" image and track down the location of this individual. We
+need geolocational coordinates, so no street addresses or none of that nonesense. This will
+be in latitude, longitutde and as an ordered pair
+
+We will only accept a 0.0001 error margin in the coordinates given. So, for instance, if you give
+the latitude coordinate of 12.1234 and the actual latitude coordinate of the individual is
+12.1235, we will accept your answer. However, if your answer was 12.1230, we will not accept
+your answer.
+
+Good luck agent!
+
+[Ending Transmission]

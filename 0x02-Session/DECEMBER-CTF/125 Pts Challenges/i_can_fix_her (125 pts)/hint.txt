@@ -1,0 +1,8 @@
+This challenge involves "python.py" which is a python file. If you have some programming knowledge,
+you know that you can run a python file using a python interpreter. Whenever you run the interpreter,
+the python compiler will return any syntax errors that it encounted while executing the program to
+your computer. Take note of these errors as they will help you correct the mistakes in the program.
+
+If you have any trouble figuring out the syntax errors produced, you can look up the errors on
+Google or on the StackOverflow forum and they will most likely be able to point you in the
+right direction.

@@ -1,0 +1,9 @@
+This challenge is about encoding plaintext data into an encoded text. This makes it unreadable by human
+standards because we do not know what it reads.
+
+To understand it, look up different kinds of encoding methods computers use. Also, look at the cyber
+club's past lessons on the Discord.
+
+Finally, instead of decoding the encoding by hand, you should also look up tools to help you decode
+the encoding. Look at the tools and commands spreadsheet on Discord or Google "online tool to decode
+encoded text" or something similar of that sort.

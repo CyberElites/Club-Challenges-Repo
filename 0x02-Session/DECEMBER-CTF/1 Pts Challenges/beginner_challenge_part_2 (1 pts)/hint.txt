@@ -1,0 +1,11 @@
+"cat" the example file. You might see these kinds of files throughout the competition where the file does not have an
+extension at the end.
+
+For instance, if you run "cat example" you will get text data like you would with a file named "example.txt". Remember,
+extensions for a file are not inheriently necessary as long as the computer can process the contents within the file.
+However, in most cases, file extensions are necessary to have.
+
+You can see what a file is meant to be or what extension it is supposed to have by running the "file" command.
+If you ran "file example", you will get the following:
+
+example: ASCII text

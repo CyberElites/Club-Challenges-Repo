@@ -1,0 +1,11 @@
+Dear Hacker,
+
+My name is Billy Bob and I have a directory on this system with the username "billybob". I want you
+to go to my home directory and into the directory of this challenge. From there, you will see
+some files. Good luck trying to read the flag.txt, I doubt you will be able to do that.
+
+Ha ha, you suck.
+
+
+Love,
+Billy Bob

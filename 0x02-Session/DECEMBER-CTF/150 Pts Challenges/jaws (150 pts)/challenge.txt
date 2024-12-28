@@ -1,0 +1,10 @@
+AHHHH! There's a shark incoming!
+
+Wait, just joking, it seems to be a packet capture file. There also seems to be
+some special data in the TCP stream. Hmm, I wonder how I can open this file?
+
+---
+
+Note, you will not have to preinstall any tools if you use the cyber server.
+Also, if we, the club, have not learned how to use Wireshark, look up
+how to use this amazing program.

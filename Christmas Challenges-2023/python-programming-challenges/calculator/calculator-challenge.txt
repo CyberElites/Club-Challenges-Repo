@@ -1,5 +1,0 @@
-Hey there buddy! I need help with math. I want a calculator that can do some basic math for me because I'm pretty bad at it.
-Could you program this calculator in Python? The calculator doesn't have to be complicated, just doing some multiplication,
-division, addition, and subtraction.
-
-PS: Don't make a graphical calculator, unless you want to; it can run inside of the terminal.

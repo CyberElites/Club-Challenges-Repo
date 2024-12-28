@@ -1,0 +1,14 @@
+Yo, dude...
+
+I got realllly bunched up last night and I started programming in Python man.
+The problem dude is that I can't make the thing run. I was like a computer wizard
+man, making this program run and stuff. But now it doesn't work.
+
+Could you help a homie out man?
+
+---
+
+Note, you do not have write permissions for the file. So, you will want to copy the
+file into your home directory to edit. Once you have done that and fixed the program,
+you can send the Python file to me in either a DM in Discord or through gmail
+(<email>).

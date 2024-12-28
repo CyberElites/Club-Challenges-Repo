@@ -1,0 +1,23 @@
+This is going to be a harder challenge than the other ones as of 12/9/2024.
+
+
+There are three things you are going to have to look up:
+
+1) how to use a bruteforcer to break into an compressed file using a password.
+2) using a "wordlist" to break into a compressed file.
+	- If you figure this out, use a "rockyou.txt" file.
+
+---
+
+Three things to note from the above.
+
+One, you will not have to install anything on your own physical system to complete this challenge.
+Everything in this challenge can be completed on this server.
+
+The other thing is that I would recommend using a wordlist instead of a bruteforcer since you will
+probably be at it for a while, but it could potentially take about 2-10 minutes, depending on the
+server's resources.
+
+Final thing, this may all sound pretty foreign language, but that is fine. Try to research and
+understand what to do and what the above terms mean. Look at public forums, readings, and 
+other resources to figure this challenge out.

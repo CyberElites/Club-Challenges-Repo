@@ -1,0 +1,5 @@
+This challenge is about navigating the cyber server and finding "flag.txt".
+
+However, you might notice that the system is huge, and the flag is in a random location.
+Fortunately for us, there are ways in Linux to find and filter out files to the ones we need.
+Try looking online on how to find files in Linux.

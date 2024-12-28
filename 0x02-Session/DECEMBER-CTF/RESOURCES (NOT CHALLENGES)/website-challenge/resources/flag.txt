@@ -1,0 +1,5 @@
+This flag goes to the second website challenge.
+
+---
+
+cyber{requests_were_made_and_fulfilled}

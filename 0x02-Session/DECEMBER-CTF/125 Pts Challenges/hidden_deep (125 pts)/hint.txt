@@ -1,0 +1,7 @@
+Do you know that you can hide files within files? If not, well, this is the main point of
+this challenge. Flag.txt is hidden within coverup.jpg, and you have to figure out how to
+extract it. I used a common steganography method (look up that word) to put the file
+in the image. That's all of the hints I will give. Just remember these words: steg and hide.
+
+Note: you will not have to install any tools as long as you are using the tools on the cyber
+server. If you are on your own machine, you might have to install your own tools.

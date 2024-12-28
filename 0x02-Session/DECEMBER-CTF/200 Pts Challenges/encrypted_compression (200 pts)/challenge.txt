@@ -1,0 +1,4 @@
+I have this compressed file but it requires a password. I know that the password is at least 5 characters long.
+A really simple password but there are a lot of words that are 5 characters long and it might not even be a word!
+
+Could you help me get into this file?

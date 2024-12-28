@@ -1,0 +1,11 @@
+Have you ever heard of "metadata"? Everytime you take a picture with your phone,
+your phone's camera software stores special, additional information to the
+image you took. For instance, this data could be where you took the file,
+who took the file, and even what model phone you took the picture with.
+
+This is called metadata and they are not excluded to just images. Other files
+could have metadata too, but it is something a little different (e.g., attributes).
+This kind of data is extremely useful for security experts, especially if they
+have aphoto of some criminal and the metadata is still on it.
+
+Look up more about metadata and how to analyze it!

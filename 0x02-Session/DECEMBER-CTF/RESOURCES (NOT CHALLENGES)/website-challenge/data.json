@@ -1,0 +1,12 @@
+{
+  "ceo": {
+    "name": "John Doe",
+    "age": 30,
+    "field": "Technology",
+    "hired": true
+  },
+  "website-paths": [
+    "/resources",
+    "/resources/flag.txt"
+  ]
+}

@@ -1,0 +1,12 @@
+To solve this challenge, you want to go to billybob's home directory. Remember that all users are stored
+on the /home directory. After going to his directory, go to the directory listed as the same name as this
+challenge.
+
+After going there, you will see three files. Billy Bob thinks that you can not read the "flag.txt" file,
+but you can. Try looking at the other scripts and what they are all about. For instance, you will see
+a "script.c" file. Look up what kind of file a ".c" file is. You will find out that it is a programming
+language. Figure out the syntaxing or structure of this script.
+
+You will need to understand what the "main()" function does. You will need to understand what the builtin
+functions FILE, char, printf, scanf, fopen, and fclose does. I recommend, to learn more about C, look at
+this website: https://www.w3schools.com/c/c_intro.php

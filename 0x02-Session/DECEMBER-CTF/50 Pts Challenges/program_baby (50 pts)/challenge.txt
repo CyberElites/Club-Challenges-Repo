@@ -1,0 +1,16 @@
+This challenge is simple and creaive. In this challenge, I will let you use any programming
+language you would like to use (Python, Bash, Rust, R, Perl, C, C++, etc.) and you can write
+any kind of program you would like.
+
+However, I do have a few rules and guidelines:
+
+1. The program must be longer than 15 lines of code.
+2. The program must be unique and have some form of logic/purpose. This means your program
+   should not be a Bash file and have 15 lines of the "echo" command running.
+3. You should be able to execute and run the program on your system. That means, if you
+   create a Rust program, you must be able to execute the Rust program.
+
+---
+
+Finally, once you have completed the above, you must send the file to me in a DM in Discord
+or through gmail. Also, you have to provide evidence that you can execute the program.

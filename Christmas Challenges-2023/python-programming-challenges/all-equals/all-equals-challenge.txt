@@ -1,8 +1,0 @@
-Attention student, this is your principle speaking. I have a challenge for you and if you solve it, you get a 
-$5,000,000 scholarship! I need you to make me a Python program that finds the total and difference amount of lines for the
-text files "all-equals-grade-1.txt" and "all-equals-grade-2.txt"
-
-For instance, if I have the files where "file1.txt" has 10 lines and "file2.txt" has 15 lines. Then the total of these two
-is 25 lines and the difference is 5. That is your challenge!
-
-PS: when doing this challenge, make sure you know how to read the content's of a file!

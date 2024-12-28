@@ -1,5 +1,0 @@
-Ok man, truuuuuust me when I say this, I'm a programmer! Yeah... but I can't program worth of anything. I made this file,
-"error-complete-file.py" but it doesn't seem like it works. I just couldn't figure it out! Could you help me with this?
-
-PS: look at its syntaxing (the ordered way programming languages want you to program) and make sure that everything seems
-correct. Also, the use of debuggers and logs might help as well!

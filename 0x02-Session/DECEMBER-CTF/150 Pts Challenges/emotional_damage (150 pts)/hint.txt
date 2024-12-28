@@ -1,0 +1,11 @@
+I will give you two hints.
+
+1) If you cat the file in the terminal, you will notice that you get blocks. The reason for this is because
+the terminal emulator we are using can not translate the data in the file to a human-readable format.
+The reason for this is because of encoding regarding the UTF standard, unicode, and ASCII. You can
+look up these buzz words on your own time since I will not be discussing them here. In order to view
+the file properly, copy the file or the contents of the file into your browser.
+
+2) I will not tell you much about this challenge since it will be too easy if I gave you too much information.
+However, the only hint I will give to help you solve this challenge is for you to use and look up the 
+"substitution cipher". Make sure to use online resources and websites when solving this challenge.

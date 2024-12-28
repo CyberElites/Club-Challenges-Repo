@@ -1,0 +1,14 @@
+Have you ever heard the terms hash or checksum? If not, it might be a good idea to learn what these
+are and how you can reverse a hash to plain text.
+
+Let me tell you about checksum. A checksum is mainly a term for hashes. Hashes are created for files      
+or pieces of data that helps identify that information. For instance, if you were to hash a file, 
+you would get a unique string of letters and words that help identify the file and its contents.
+However, if the contents of the file change even a little bit, the hash will change as well.
+
+Let's take this scenario. If I am Microsoft and I upload a software for the public to use, I would
+also make a checksum for the software to let every user know that this is the original, unedited
+software file. This would make it so that if another user/hacker were to take the software,
+configure it, then reupload it to their site or another site, the file would have a different 
+checksum, notifying other users of the modified file and to be cautious before downloading and
+running the file.

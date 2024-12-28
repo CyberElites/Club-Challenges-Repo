@@ -1,0 +1,5 @@
+There are multiple ways to encode data. Hopefully, you are familiar that data can most commonly
+be encoded in binary, decimal, and hexadecimal. These types of encoding also have the names
+base2, base10, and base16, all respectively.
+
+There are other bases as well to encode data. Which might this challenge be encoded in?
