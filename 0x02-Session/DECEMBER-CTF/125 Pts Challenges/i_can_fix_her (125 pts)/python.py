@@ -12,12 +12,12 @@ def man():
                 equatin(input("I need a number: ")
 
     cwd = os.getcwd()
-    print(f"${cwd}")
+    print(f"{cwd}")
 
     if os.getuid() == 1:
         print(f"How the heck are you root?")
     ele:
-        print(f"os.getuid()")
+        print(f"{os.getuid()}")
         embed()
 
 df equation(parm):
@@ -36,7 +36,7 @@ df equation(parm):
             for x in range (0, i):
                 y = x % 1
                 if y != None an y != 0:
-                    print(f"y=${y}")
+                    print(f"y={y}")
                 else
                     break
     
